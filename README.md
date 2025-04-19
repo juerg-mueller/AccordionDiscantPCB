@@ -6,7 +6,7 @@ KiCad Projekt für eine Akkordeon-Diskant-Platine.
 
 ![SchemaDiskant](https://github.com/user-attachments/assets/f259d7c9-6f51-415d-9f7d-240a0a0ce931)
 
-Platinen können bei pcbgogo.com mit der Datei Gerber_akkordeon_diskant.zip bestellen werden. Fünf Platinen kosten 92 USD.
+Platinen können bei pcbgogo.com mit der Datei Gerber_akkordeon_diskant.zip Datei bestellen werden. Fünf Platinen kosten 92 USD.
 
 Alle zur Bestückung notwendigen Teile können bei Reichelt.de bestellt werden:
 
