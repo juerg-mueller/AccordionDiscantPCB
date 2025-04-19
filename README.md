@@ -11,9 +11,15 @@ Platinen bei pcbgogo.com mit der Datei Gerber_akkordeon_diskant.zip bestellen. F
 Alle zur Bestückung notwendigen Teile können bei Reichelt.de bestellt werden:
 
 Schottkydioden: BAT 43 STM
+
 Cherry Tasten: CHERRY MX1A-51NN
+
 Kondenstor 100nF: KERKO 100N
+
 Widerstände 100kOhm: 1/4W 100K
+
 IC-Sockel DIL 16: GS 16P
+
 Wannenstecker 20-polig gewinkelt:  WSL 20W
+
 MUX 74HC138: SN 74HC138 TEX
