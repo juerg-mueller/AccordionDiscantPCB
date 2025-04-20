@@ -826,6 +826,9 @@
   (junction (at 186.69 82.55) (diameter 0) (color 0 0 0 0)
     (uuid 609fb742-05f9-407b-9ae5-dde711072220)
   )
+  (junction (at 62.23 172.72) (diameter 0) (color 0 0 0 0)
+    (uuid 63b3645c-9ce7-4687-aa2f-fead146eb637)
+  )
   (junction (at 34.29 91.44) (diameter 0) (color 0 0 0 0)
     (uuid 646f06cb-01bc-45bb-9dcb-c78046a798c6)
   )
@@ -1385,6 +1388,10 @@
   (wire (pts (xy 193.04 85.09) (xy 215.9 85.09))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 313b79d2-8d14-471b-b7c1-25ba3f718cd6)
+  )
+  (wire (pts (xy 62.23 172.72) (xy 62.23 175.26))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 319bb31a-0b0f-4e1f-88a2-45be9831cc7d)
   )
   (wire (pts (xy 303.53 82.55) (xy 303.53 96.52))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2513,6 +2520,12 @@
   (wire (pts (xy 193.04 71.12) (xy 215.9 71.12))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ff0cf668-679d-4f45-846d-7b3422e2716a)
+  )
+
+  (text "Diskant Knopfakkordeon\nCopyright 2025 Jürg Müller\nCH-5524 Nesselnbach"
+    (at 104.14 57.15 0)
+    (effects (font (size 8 8)) (justify left bottom))
+    (uuid f2c8e562-65b2-47d8-b434-06db9a175e33)
   )
 
   (symbol (lib_id "JM_Library:SW_Cherry") (at 205.74 124.46 0) (unit 1)
