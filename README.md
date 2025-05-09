@@ -2,7 +2,7 @@
 
 KiCad Projekt für eine Akkordeon-Diskant-Platine.
 
-![DiskantAkkordeon](https://github.com/user-attachments/assets/8fb979e7-eeec-4a2f-9b04-81471dc87469)
+![diskant](https://github.com/user-attachments/assets/8d29ff41-a7ce-4f0c-a7da-1fc76b1fb540)
 
 ![SchemaDiskant](https://github.com/user-attachments/assets/f259d7c9-6f51-415d-9f7d-240a0a0ce931)
 
